@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sepehr-mortaheb
 - 👀 I’m interested in neuroimaging and signal processing. 
-- 🌱 I’m currently working on the brain's structural and functional networks and how being in zero gravity affects them (Postdoctoral Researcher at the UAntwerp). 
-- 💞️ I’m looking to collaborate on developing signal processing tools in neuroimaging problems.
+- 🧠 I’m currently working on the brain's structural and functional networks and how being in zero gravity affects them (Postdoctoral Researcher at the UAntwerp). 
+- 🤝 I’m looking to collaborate on developing signal processing tools in neuroimaging problems.
 - 📫 How to reach me: sepehr.mortaheb@uantwerpen.be
 
 <!---
